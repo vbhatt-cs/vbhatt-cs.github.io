@@ -1,25 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. Student, <a href='https://icaros.usc.edu/'>ICAROS Lab</a>, <a href='https://www.usc.edu/'>University of Southern California</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: PhotoColor_2023.jpg
+  image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student with <a href='https://stefanosnikolaidis.net/'>Prof. Stefanos Nikolaidis</a> in the Computer Science department at the University of Southern California. Prior to my Ph.D., I completed my M.Sc. at the University of Alberta with <a href='https://skatgame.net/mburo/'>Prof. Michael Buro</a> and B.Tech at the Indian Institute of Technology Bombay.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My main research goal is to build robust and generalizable intelligent agents that work well alongside humans and other intelligent agents. Towards that end, I have been working on methods to generate diverse and challenging environments via a combination of generative models and quailty diversity optimization.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of research, I mostly spend time on gaming and occasionally on hiking and travel. I am also a fan of puzzles, so there is a good chance you will find me solving variant sudokus during work breaks!
+
+<p style="color:red;">:hammer: This page is still under construction :hammer:</p>
