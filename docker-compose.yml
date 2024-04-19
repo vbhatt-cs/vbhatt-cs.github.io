@@ -4,6 +4,7 @@ services:
   jekyll:
     image: amirpourmand/al-folio:latest
     build: .
+    network_mode: host
     ports:
       - 8080:8080
       - 35729:35729
