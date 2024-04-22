@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vbhatt-cs
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - icaros-usc/dsas
+  - icaros-usc/dsage
+  - vbhatt-cs/inference-based-messaging
+  - vbhatt-cs/RL-SNN
