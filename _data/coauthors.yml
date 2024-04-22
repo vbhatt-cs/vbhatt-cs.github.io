@@ -1,34 +1,41 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"ganguly":
+  - firstname: ["Udayan", "U."]
+    url: https://www.ee.iitb.ac.in/~udayanresearch/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"piratla":
+  - firstname: ["Vihari", "V."]
+    url: https://vihari.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"krishna":
+  - firstname: ["Kalpesh", "K."]
+    url: https://martiansideofthemoon.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"kalyanakrishnan":
+  - firstname: ["Shivaram", "S."]
+    url: https://www.cse.iitb.ac.in/~shivaram/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"buro":
+  - firstname: ["Michael", "M."]
+    url: https://skatgame.net/mburo/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"nikolaidis":
+  - firstname: ["Stefanos", "S."]
+    url: https://stefanosnikolaidis.net/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"tjanaka":
+  - firstname: ["Bryon", "B."]
+    url: https://btjanaka.net/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"li":
+  - firstname: ["Jiaoyang", "J."]
+    url: https://jiaoyangli.me/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"zhang":
+  - firstname: ["Yulun", "Y."]
+    url: https://yulunzhang.net/
+  - firstname: ["Hejia", "H."]
+    url: https://www.hejiazhang.me/
+
+"nemlekar":
+  - firstname: ["Heramb", "H."]
+    url: https://herambnemlekar.github.io/

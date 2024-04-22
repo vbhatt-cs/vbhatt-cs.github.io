@@ -19,5 +19,3 @@ I am a Ph.D. student with <a href='https://stefanosnikolaidis.net/'>Prof. Stefan
 My main research goal is to build robust and generalizable intelligent agents that work well alongside humans and other intelligent agents. Towards that end, I have been working on methods to generate diverse and challenging environments via a combination of generative models and quailty diversity optimization.
 
 Outside of research, I mostly spend time on gaming and occasionally on hiking and travel. I am also a fan of puzzles, so there is a good chance you will find me solving variant sudokus during work breaks!
-
-<p style="color:red;">:hammer: This page is still under construction :hammer:</p>

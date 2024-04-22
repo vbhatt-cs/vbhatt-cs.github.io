@@ -1,93 +1,156 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+@string{aaai = {Proceedings of the AAAI Conference on Artificial Intelligence}}
+@string{neurips = {Advances in Neural Information Processing Systems (NeurIPS)}}
+@string{ijcai = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)}}
+@string{corl = {Proceedings of the Conference on Robot Learning (CoRL)}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@article{zhang2024guidance,
+  author       = {Yulun Zhang and
+                  Jiang He and
+                  Varun Bhatt and
+                  Stefanos Nikolaidis and
+                  Jiaoyang Li},
+  title        = {Guidance Graph Optimization for Lifelong Multi-Agent Path Finding},
+  journal      = {CoRR abs/2402.01446},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2402.01446},
+  doi          = {10.48550/ARXIV.2402.01446},
+  timestamp    = {Fri, 09 Feb 2024 12:18:48 +0100},
+  arxiv        = {2402.01446},
+  preview      = {ggo.png},
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@inproceedings{zhang2024arbitrarily,
+  author       = {Yulun Zhang and
+                  Matthew C. Fontaine and
+                  Varun Bhatt and
+                  Stefanos Nikolaidis and
+                  Jiaoyang Li},
+  title        = {Arbitrarily Scalable Environment Generators via Neural Cellular Automata},
+  booktitle    = neurips,
+  year         = {2023},
+  url          = {http://papers.nips.cc/paper\_files/paper/2023/hash/b2fbf1c9bc92e7ef2f6cab2e8a3e09af-Abstract-Conference.html},
+  timestamp    = {Fri, 01 Mar 2024 16:26:20 +0100},
+  arxiv        = {2310.18622},
+  code         = {https://github.com/lunjohnzhang/warehouse_env_gen_nca_public},
+  preview      = {warehouse_nca.gif},
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@inproceedings{bhatt2023surrogate,
+  author       = {Varun Bhatt and
+                  Heramb Nemlekar and
+                  Matthew C. Fontaine and
+                  Bryon Tjanaka and
+                  Hejia Zhang and
+                  Ya{-}Chuan Hsu and
+                  Stefanos Nikolaidis},
+  title        = {Surrogate Assisted Generation of Human-Robot Interaction Scenarios},
+  booktitle    = corl,
+  year         = {2023},
+  url          = {https://proceedings.mlr.press/v229/bhatt23a.html},
+  timestamp    = {Tue, 20 Feb 2024 17:19:52 +0100},
+  arxiv        = {2304.13787},
+  slides       = {https://youtu.be/2NbuFr27HCk?t=35662},
+  code         = {https://github.com/icaros-usc/dsas},
+  preview      = {dsas.gif},
+  selected     = {true},
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  selected={true}
+@inproceedings{zhang2023multi,
+  author       = {Yulun Zhang and
+                  Matthew C. Fontaine and
+                  Varun Bhatt and
+                  Stefanos Nikolaidis and
+                  Jiaoyang Li},
+  title        = {Multi-Robot Coordination and Layout Design for Automated Warehousing},
+  booktitle    = ijcai,
+  year         = {2023},
+  url          = {https://doi.org/10.24963/ijcai.2023/611},
+  doi          = {10.24963/IJCAI.2023/611},
+  timestamp    = {Sat, 30 Sep 2023 09:48:30 +0200},
+  arxiv        = {2305.06436},
+  code         = {https://github.com/lunjohnzhang/warehouse_env_gen_public},
+  preview      = {warehouse.gif},
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@inproceedings{bhatt2022deep,
+  author       = {Varun Bhatt and
+                  Bryon Tjanaka and
+                  Matthew C. Fontaine and
+                  Stefanos Nikolaidis},
+  title        = {Deep Surrogate Assisted Generation of Environments},
+  booktitle    = neurips,
+  year         = {2022},
+  url          = {http://papers.nips.cc/paper\_files/paper/2022/hash/f649556471416b35e60ae0de7c1e3619-Abstract-Conference.html},
+  timestamp    = {Mon, 08 Jan 2024 16:31:27 +0100},
+  slides       = {https://slideslive.com/38990738},
+  arxiv        = {2206.04199},
+  website      = {https://dsagepaper.github.io/},
+  code         = {https://github.com/icaros-usc/dsage},
+  preview      = {dsage.png},
+  selected     = {true},
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@inproceedings{bhatt2021inference,
+  author       = {Varun Bhatt and
+                  Michael Buro},
+  title        = {Inference-Based Deterministic Messaging For Multi-Agent Communication},
+  booktitle    = aaai,
+  year         = {2021},
+  url          = {https://doi.org/10.1609/aaai.v35i13.17339},
+  doi          = {10.1609/AAAI.V35I13.17339},
+  timestamp    = {Mon, 04 Sep 2023 16:50:23 +0200},
+  slides       = {https://slideslive.com/38949280/inferencebased-deterministic-messaging-for-multiagent-communication},
+  arxiv        = {2103.02150},
+  code         = {https://github.com/vbhatt-cs/inference-based-messaging},
+  preview      = {info_comm.png},
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@article{kalyanakrishnan2021analysis,
+  author       = {Shivaram Kalyanakrishnan and
+                  Siddharth Aravindan and
+                  Vishwajeet Bagdawat and
+                  Varun Bhatt and
+                  Harshith Goka and
+                  Archit Gupta and
+                  Kalpesh Krishna and
+                  Vihari Piratla},
+  title        = {An Analysis of Frame-skipping in Reinforcement Learning},
+  journal      = {CoRR abs/2102.03718},
+  year         = {2021},
+  url          = {https://arxiv.org/abs/2102.03718},
+  timestamp    = {Wed, 10 Feb 2021 15:24:31 +0100},
+  arxiv        = {2102.03718},
+  preview      = {action_repetition.png},
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@inproceedings{bhatt2020software,
+  author       = {Varun Bhatt and
+                  Shalini Shrivastava and
+                  Tanmay Chavan and
+                  Udayan Ganguly},
+  title        = {Software-Level Accuracy Using Stochastic Computing With Charge-Trap-Flash
+                  Based Weight Matrix},
+  booktitle    = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
+  year         = {2020},
+  url          = {https://doi.org/10.1109/IJCNN48605.2020.9206631},
+  doi          = {10.1109/IJCNN48605.2020.9206631},
+  timestamp    = {Tue, 06 Oct 2020 15:44:35 +0200},
+  arxiv        = {2004.11120},
+  preview      = {rpu.png},
+}
+
+@inproceedings{bhatt2018sparsity,
+  author       = {Varun Bhatt and
+                  Udayan Ganguly},
+  title        = {Sparsity Enables Data and Energy Efficient Spiking Convolutional Neural
+                  Networks},
+  booktitle    = {Proceedings of the International Conference on Artificial Neural Networks (ICANN)},
+  year         = {2018},
+  url          = {https://doi.org/10.1007/978-3-030-01418-6\_26},
+  doi          = {10.1007/978-3-030-01418-6\_26},
+  timestamp    = {Tue, 14 May 2019 10:00:49 +0200},
+  preview      = {sparse_coding.jpg},
 }
