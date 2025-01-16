@@ -175,6 +175,10 @@
   ],
   "outreach": [
     {
+      "description": "Demonstrated robot research on behalf of the ICAROS Lab at the USC Ginsburg Hall ribbon ceremony.",
+      "date": "2024"
+    },
+    {
       "description": "Represented ICAROS Lab in the Robotics Open House 2024, showing robot demos to K-12 students.",
       "date": "2024"
     },
@@ -194,7 +198,7 @@
     },
     {
       "name": "Libraries",
-      "keywords": ["PyTorch", "TensorFlow", "NumPy", "Pandas", "Jax", "ROS", "Isaac Sim"]
+      "keywords": ["PyTorch", "TensorFlow", "NumPy", "Pandas", "Jax", "ROS", "Isaac Sim", "Pygame"]
     }
   ]
 }
