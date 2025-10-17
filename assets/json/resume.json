@@ -46,6 +46,13 @@
       "url": "https://arxiv.org/abs/2504.03991"
     },
     {
+      "name": "Improving Human-Robot Interaction via a Population of Synthetic Human-like Teams",
+      "authors": "Srikanth, S., <strong>Bhatt, V.</strong>, Lewis, C.M., Sycara, K.P., Tabrez, A., and Nikolaidis, S.",
+      "publisher": "Second Workshop on Generative Modeling Meets Human-Robot Interaction (GenAI-HRI) at Robotics: Science and Systems (RSS)",
+      "releaseDate": "2025",
+      "url": "https://aaquibtabrez.github.io/assets/pdf/publications/genaihri25.pdf"
+    },
+    {
       "name": "QD-MAPPER: A Quality Diversity Framework to Automatically Evaluate Multi-Agent Path Finding Algorithms in Diverse Maps",
       "authors": "Qian, C., Zhang, Y., <strong>Bhatt, V.</strong>, Fontaine, M. C., Nikolaidis, S., and Li, J.",
       "publisher": "(under review)",

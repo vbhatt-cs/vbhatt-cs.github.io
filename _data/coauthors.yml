@@ -27,7 +27,7 @@
     url: https://btjanaka.net/
 
 "fontaine":
-  - firstname: ["Fontaine", "M.C."]
+  - firstname: ["Matthew", "M.", "M.C."]
     url: https://tehqin.github.io/
 
 "li":
@@ -45,45 +45,45 @@
     url: https://herambnemlekar.github.io/
 
 "hsu":
-  - firstname: ["Hsu", "Y. C."]
+  - firstname: ["Ya-Chuan", "Y. C."]
     url: https://sophiehsu.github.io/
 
 "zhao":
-  - firstname: ["Zhao", "S."]
+  - firstname: ["Shihan", "S."]
     url: https://szhaovas.github.io/
 
 "lange":
-  - firstname: ["Lange", "R."]
+  - firstname: ["Ralph", "R."]
     url: https://lange-ralph.de/
 
 "klauck":
-  - firstname: ["Klauck", "M."]
+  - firstname: ["Michaela", "M."]
     url: https://mklauck.github.io/
 
 "hedayatian":
-  - firstname: ["Hedayatian", "S."]
+  - firstname: ["Saeed", "S."]
     url: https://conflictednerd.github.io/
 
 "lewis":
-  - firstname: ["Lewis", "C.M."]
+  - firstname: ["Charles", "C.", "C.M."]
     url: https://sites.pitt.edu/~cmlewis/
 
 "sycara":
-  - firstname: ["Sycara", "K.P."]
+  - firstname: ["Katia", "K.", "K.P."]
     url: https://www.cs.cmu.edu/~sycara/
 
 "srikanth":
-  - firstname: ["Srikanth", "S."]
+  - firstname: ["Siddharth", "Sid", "S."]
     url: https://sidsrikanth.com/
 
 "tabrez":
-  - firstname: ["Tabrez", "A."]
+  - firstname: ["Aaquib", "A."]
     url: https://aaquibtabrez.github.io/
 
 "hwang":
-  - firstname: ["Hwang", "M."]
+  - firstname: ["Minjune", "M."]
     url: https://mj-hwang.github.io/
 
 "seita":
-  - firstname: ["Seita", "D."]
+  - firstname: ["Daniel", "D."]
     url: https://danielseita.github.io/
