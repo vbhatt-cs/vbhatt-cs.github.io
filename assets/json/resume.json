@@ -33,9 +33,42 @@
   ],
   "publications": [
     {
+      "name": "Red-Teaming Vision-Language-Action Models via Quality Diversity Prompt Generation for Robust Robot Policies",
+      "authors": "Srikanth, S., Liang, F., Hsu, Y. C., <strong>Bhatt, V.</strong>, Zhao, S., Chen, H., Tjanaka, B., Hwang, M., Saran, A., Seita, D., Tabrez, A., Nikolaidis, S.",
+      "publisher": "(under review)",
+      "releaseDate": "2025"
+    },
+    {
+      "name": "Algorithmic Prompt Generation for Diverse Human-like Teaming and Communication with Large Language Models",
+      "authors": "Srikanth, S., <strong>Bhatt, V.</strong>, Zhang, B., Hager, W., Lewis, C.M., Sycara, K.P., Tabrez, A., and Nikolaidis, S.",
+      "publisher": "(under review)",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2504.03991"
+    },
+    {
+      "name": "QD-MAPPER: A Quality Diversity Framework to Automatically Evaluate Multi-Agent Path Finding Algorithms in Diverse Maps",
+      "authors": "Qian, C., Zhang, Y., <strong>Bhatt, V.</strong>, Fontaine, M. C., Nikolaidis, S., and Li, J.",
+      "publisher": "(under review)",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2409.06888"
+    },
+    {
+      "name": "Systematic Generation of Diverse Teams for Improved Multi-Agent Collaboration",
+      "authors": "Hedayatian, S.*, <strong>Bhatt, V.</strong>*, Tjanaka, B., Lewis, C.M., Sycara, K.P., and Nikolaidis, S.",
+      "publisher": "(under review)",
+      "releaseDate": "2025"
+    },
+    {
+      "name": "Efficient Quality Diversity Optimization with Monte Carlo Bayesian Sampling",
+      "authors": "Palmas, M., <strong>Bhatt, V.</strong>, Zhao, S., Nikolaidis, S., Lange, R., and Klauck, M.",
+      "publisher": "Poster at the Genetic and Evolutionary Computation Conference (GECCO)",
+      "releaseDate": "2025",
+      "url": "https://dl.acm.org/doi/10.1145/3712255.3726674"
+    },
+    {
       "name": "Guidance Graph Optimization for Lifelong Multi-Agent Path Finding",
       "authors": "Zhang, Y., Jiang, H., <strong>Bhatt, V.</strong>, Nikolaidis, S., and Li, J.",
-      "publisher": "Accepted at IJCAI",
+      "publisher": "Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)",
       "releaseDate": "2024",
       "url": "https://arxiv.org/abs/2402.01446"
     },
@@ -62,7 +95,7 @@
     },
     {
       "name": "Deep Surrogate Assisted Generation of Environments",
-      "authors": "<strong>Bhatt, V.</strong>, Tjanaka, B., Fontaine, M. C., and Nikolaidis, S.",
+      "authors": "<strong>Bhatt, V.</strong>*, Tjanaka, B.*, Fontaine, M. C.*, and Nikolaidis, S.",
       "publisher": "Advances in Neural Information Processing Systems (NeurIPS)",
       "releaseDate": "2022",
       "url": "https://arxiv.org/abs/2206.04199"
@@ -122,7 +155,7 @@
     {
       "name": "Deep Learning and its Applications",
       "university": "University of Southern California",
-      "date": "Spring 2024"
+      "date": "Spring 2024,Spring 2025"
     },
     {
       "name": "Introduction to Robotics",
@@ -150,7 +183,12 @@
       "date": "Autumn 2016"
     }
   ],
-  "other_talks": [
+  "talks": [
+    {
+      "title": "Generating Scenarios with Surrogate Models",
+      "place": "USC Summer Robotics Seminar Series",
+      "date": "2024"
+    },
     {
       "title": "Quality Diversity Scenario Generation for Robust Intelligent Agents",
       "place": "USC Theta Tau Professor Research Event (on behalf of the ICAROS Lab)",
@@ -175,6 +213,10 @@
   ],
   "outreach": [
     {
+      "description": "Demonstrated the work on diverse collaborative LLM agents at RSS 2025 and to DARPA.",
+      "date": "2025"
+    },
+    {
       "description": "Demonstrated robot research on behalf of the ICAROS Lab at the USC Ginsburg Hall ribbon ceremony.",
       "date": "2024"
     },
@@ -188,7 +230,22 @@
     },
     {
       "name": "Conference/Journal Reviews",
-      "keywords": ["TEVC-IEEE", "GECCO 2024", "HRI 2024", "ALOE workshop at NeurIPS 2023", "EGG workshop at RSS 2023", "GECCO 2023"]
+      "keywords": [
+        "GECCO 2023",
+        "EGG workshop at RSS 2023",
+        "ALOE workshop at NeurIPS 2023",
+        "HRI 2024",
+        "GECCO 2024",
+        "TEVC-IEEE",
+        "ISRR 2024",
+        "ICRA 2025",
+        "GECCO 2025",
+        "RSS 2025",
+        "RSS Pioneers 2025",
+        "RA-L 2025",
+        "NeurIPS 2025",
+        "AAAI 2026"
+      ]
     }
   ],
   "skills": [
