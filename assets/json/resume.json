@@ -185,6 +185,11 @@
   ],
   "talks": [
     {
+      "title": "Scenario Generation as a Tool for Robust Intelligent Agents",
+      "place": "IIT Bombay",
+      "date": "2025"
+    },
+    {
       "title": "Generating Scenarios with Surrogate Models",
       "place": "USC Summer Robotics Seminar Series",
       "date": "2024"
@@ -244,7 +249,8 @@
         "RSS Pioneers 2025",
         "RA-L 2025",
         "NeurIPS 2025",
-        "AAAI 2026"
+        "AAAI 2026",
+        "ICRA 2026"
       ]
     }
   ],
