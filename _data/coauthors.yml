@@ -26,6 +26,10 @@
   - firstname: ["Bryon", "B."]
     url: https://btjanaka.net/
 
+"fontaine":
+  - firstname: ["Fontaine", "M.C."]
+    url: https://tehqin.github.io/
+
 "li":
   - firstname: ["Jiaoyang", "J."]
     url: https://jiaoyangli.me/
@@ -39,3 +43,47 @@
 "nemlekar":
   - firstname: ["Heramb", "H."]
     url: https://herambnemlekar.github.io/
+
+"hsu":
+  - firstname: ["Hsu", "Y. C."]
+    url: https://sophiehsu.github.io/
+
+"zhao":
+  - firstname: ["Zhao", "S."]
+    url: https://szhaovas.github.io/
+
+"lange":
+  - firstname: ["Lange", "R."]
+    url: https://lange-ralph.de/
+
+"klauck":
+  - firstname: ["Klauck", "M."]
+    url: https://mklauck.github.io/
+
+"hedayatian":
+  - firstname: ["Hedayatian", "S."]
+    url: https://conflictednerd.github.io/
+
+"lewis":
+  - firstname: ["Lewis", "C.M."]
+    url: https://sites.pitt.edu/~cmlewis/
+
+"sycara":
+  - firstname: ["Sycara", "K.P."]
+    url: https://www.cs.cmu.edu/~sycara/
+
+"srikanth":
+  - firstname: ["Srikanth", "S."]
+    url: https://sidsrikanth.com/
+
+"tabrez":
+  - firstname: ["Tabrez", "A."]
+    url: https://aaquibtabrez.github.io/
+
+"hwang":
+  - firstname: ["Hwang", "M."]
+    url: https://mj-hwang.github.io/
+
+"seita":
+  - firstname: ["Seita", "D."]
+    url: https://danielseita.github.io/
