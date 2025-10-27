@@ -255,7 +255,7 @@
         "RSS 2025",
         "RSS Pioneers 2025",
         "RA-L 2025",
-        "NeurIPS 2025",
+        "NeurIPS 2025 (Top Reviewer)",
         "AAAI 2026",
         "ICRA 2026"
       ]
@@ -268,7 +268,7 @@
     },
     {
       "name": "Libraries",
-      "keywords": ["PyTorch", "TensorFlow", "NumPy", "Pandas", "Jax", "ROS", "Isaac Sim", "Pygame"]
+      "keywords": ["PyTorch", "TensorFlow", "NumPy", "Pandas", "Jax", "ROS", "Isaac Sim", "HuggingFace Transformers"]
     }
   ]
 }
